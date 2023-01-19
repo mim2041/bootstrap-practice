@@ -8,6 +8,7 @@ body{
     box-shadow: 0 0 30px rgba(0,0,0,0.5);
     overflow: hidden;
     border-radius: 15px;
+    margin-bottom: 10px;
 }
 .img1 img{
     height: 200px;
